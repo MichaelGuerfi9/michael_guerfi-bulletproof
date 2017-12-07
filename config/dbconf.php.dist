@@ -1,0 +1,7 @@
+<?php
+$config = [
+    "host" => "Adresse",
+    "user" => "Utilisateur",
+    "password" => "Password",
+    "dbname" => "Nom",
+];
